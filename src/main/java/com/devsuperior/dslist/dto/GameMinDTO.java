@@ -25,7 +25,6 @@ public class GameMinDTO {
 		shortDescription = Entity.getShortDescription();
 	}
 
-
 	public Long getId() {
 		return id;
 	}
